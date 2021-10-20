@@ -1,2 +1,3 @@
 def hello():
-    pass # TODO
+    print('Hello, world!')
+    return
